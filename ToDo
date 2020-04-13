@@ -10,3 +10,5 @@
 [] Research libraries necessary for the custom visuals I would like to incorporate
 [] Create project and plot it out with pseudo code
 [] Draw templates for cards, decks, playing field, UI
+[] Create and test small build to get a feel for using images in python
+[] Make a die and card class
