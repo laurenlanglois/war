@@ -1,0 +1,12 @@
+[] Main Goal: Create war
+  War is a game played by two people; in this case, a player and a computer, who begin the game with half of the deck each. 
+  Upon each turn, both players will reveal the top card of their deck simultaneously; the higher card of the two wins the round, thus,
+  getting the cards that were played in that round. If in a turn, both players reveal the same class of card (ie. two queens), a war
+  is established. In a war, players place two cards face down from the top of their deck onto the playing field, the third card they draw
+  is to be placed face up and compared. Same rules apply here, higher card wins, if the cards are of the same class, play another war.
+
+  This process is repeated until either a player concedes, or one player holds all of the cards in the deck.
+
+[] Research libraries necessary for the custom visuals I would like to incorporate
+[] Create project and plot it out with pseudo code
+[] Draw templates for cards, decks, playing field, UI
