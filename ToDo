@@ -7,8 +7,12 @@
 
   This process is repeated until either a player concedes, or one player holds all of the cards in the deck.
 
-[] Research libraries necessary for the custom visuals I would like to incorporate
-[] Create project and plot it out with pseudo code
-[] Draw templates for cards, decks, playing field, UI
-[] Create and test small build to get a feel for using images in python
-[] Make a die and card class
+[x] Research libraries necessary for the custom visuals I would like to incorporate
+[] Create project and plot it out with pseudo code (I have my old war project that I will be referencing for project flow)
+[] Draw templates for cards, decks, playing field, UI (this will take time, and is last on the list of priorities for making the game work)
+[] Create and test small build to get a feel for using images in python (this will need to come later, must make a working test first)
+[x] Make a die and card class (Card class updated)
+
+Update (4/22):
+[] Pseudo-code/start solidifying game play and test functionality of classes
+[] Get a basic turn working (if higher card established, war can be done later)
