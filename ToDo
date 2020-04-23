@@ -14,5 +14,10 @@
 [x] Make a die and card class (Card class updated)
 
 Update (4/22):
-[] Pseudo-code/start solidifying game play and test functionality of classes
+[x] Pseudo-code/start solidifying game play and test functionality of classes (Classes created: Player, Card, Deck)
 [] Get a basic turn working (if higher card established, war can be done later)
+
+Update (4/23):
+[] Discuss options: continue with just the basic game of war, or commit to using images?
+[] Add deal() to distribute cards to both player's hands
+[] Discard piles for both players
