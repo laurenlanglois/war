@@ -2,3 +2,9 @@ Lauren Langlois
 //war//
 
 This program is a working game of war. Once a name has been assigned to the player, it plays through automatically and declares a winner.
+
+To run this program, you must open it in a python window (originally made with PyCharm) and click "Run"
+
+There are no special modules required. (If you run it with tkinter, it will still work because it is included with Python)
+
+If I had more time, I would have used tkinter to run the game with visuals. (My time was spent elsewhere - on my CS2 project/final)
